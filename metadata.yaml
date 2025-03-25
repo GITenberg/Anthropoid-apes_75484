@@ -1,6 +1,9 @@
 _repo: Anthropoid-apes_75484
 _version: 0.1.0
 alternative_title: Die menschenähnlichen Affen. English
+covers:
+- cover_type: archival
+  image_path: 75484-h/images/cover.jpg
 creator:
   author:
     agent_name: Hartmann, Robert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58019
     wikipedia: https://en.wikipedia.org/wiki/Robert_Hartmann_(naturalist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75484#Anthropoid-apes
 gutenberg_issued: '2025-02-27'
 gutenberg_type: Text
 identifiers:
